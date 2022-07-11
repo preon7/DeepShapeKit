@@ -1,0 +1,6 @@
+__pycache__
+animal_model/__pycache__
+model/__pycache__
+util/__pycache__
+model/saved_models
+tests
