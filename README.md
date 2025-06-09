@@ -34,7 +34,7 @@ Please define the custom keypoint as in [fish_model.py](animal_model/fish_model.
 and data loader as the class 'Multiview_Dataset' in [MaskDatasets.py](animal_model/MaskDatasets.py)
 
 We provide our detected keypoint and detected mask in the following link for a quick demo: 
-https://drive.google.com/drive/folders/1zu_Quqs1z1q5YhbxWOWcdSVfNgT_RKs1?usp=sharing
+[https://drive.google.com/drive/folders/1zu_Quqs1z1q5YhbxWOWcdSVfNgT_RKs1?usp=sharing](https://drive.google.com/file/d/1mF2jqTQG6ojuwV-hV819c6X8XPzzyIt5/view?usp=sharing)
 
 Extract the file will create a folder 'data' at the root of this repository.
 The input folder path will be 'data/input/demo'
